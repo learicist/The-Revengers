@@ -1,5 +1,11 @@
 print('Hello Mike!')
 
-print('Hello Greg!')
+you = True
+Michael = True
+knowit = True
 
-print('WHYYYYYY')
+
+if you is Michael and you is knowit:
+    print("clapyourhands")
+
+
