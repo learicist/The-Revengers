@@ -1,0 +1,19 @@
+{
+  "name": "the-revengers",
+  "version": "1.0.0",
+  "description": "test run",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learicist/The-Revengers.git"
+  },
+  "author": "Michael Leary <learicist@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learicist/The-Revengers/issues"
+  },
+  "homepage": "https://github.com/learicist/The-Revengers#readme"
+}
