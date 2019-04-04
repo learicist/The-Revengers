@@ -2,7 +2,7 @@
   "name": "the-revengers",
   "version": "1.0.0",
   "description": "test run",
-  "main": "main.js",
+  "main": "server.js",
   "scripts": {
     "test": "npm test"
   },
