@@ -5,6 +5,10 @@
 	color: purple;
 }
 
-#title {
-	
+#mainList {
+	align-items: center;
+}
+
+#options {
+	list-style: none;
 }
