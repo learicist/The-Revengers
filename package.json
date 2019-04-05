@@ -2,7 +2,7 @@
   "name": "the-revengers",
   "version": "1.0.0",
   "description": "test run",
-  "main": "main.js",
+  "main": "server.js",
   "scripts": {
     "test": "npm test"
   },
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/learicist/The-Revengers/issues"
   },
-  "homepage": "https://github.com/learicist/The-Revengers#readme"
+  "homepage": "https://github.com/learicist/The-Revengers#readme",
+  "dependencies": {
+    "connect": "^3.6.6",
+    "express": "^4.16.4"
+  }
 }
