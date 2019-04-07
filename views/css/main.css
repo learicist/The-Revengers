@@ -1,14 +1,49 @@
+/* ========= INDEX.HTML ==============*/
+
+#indexContainer {
+	background-image: url('/img/revengers.png'); 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;	
+}
+
 #titleCard {
-	margin-top: 20px;
-	text-align: center;
+	margin-top: 15px;
+	display: flex;
+	justify-content: center;
 	font-size: 2.5em;
 	color: purple;
 }
 
+#title {
+	text-align: center;
+}
+
 #mainList {
-	align-items: center;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 500px;
 }
 
 #options {
 	list-style: none;
+	text-align: center;
 }
+
+#options li {
+	display: inline;
+	font-size: 1.75em;
+	margin: auto 5%;
+}
+
+
+
+/* ========= MUSIC.HTML ==============*/
+
+
+
+
+
+
+/* ========= SPORTS.HTML ==============*/
