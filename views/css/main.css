@@ -1,6 +1,6 @@
 /* ========= INDEX.HTML ==============*/
 
-#indexContainer {
+body{
 	background-image: url('/img/revengers.png'); 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -8,23 +8,26 @@
 	background-size: cover;	
 }
 
-#titleCard {
-	margin-top: 15px;
-	display: flex;
-	justify-content: center;
-	font-size: 2.5em;
-	color: purple;
+.info {
+	display: inline;
 }
 
 #title {
-	text-align: center;
+	font-size: 2.15em;
+	color: white;
+	margin-right: 5%;
 }
 
-#mainList {
-	display: flex;
-	justify-content: center;
-	margin-bottom: 500px;
+#subTitle {
+	font-size: 1.15em;
+	margin-left: 15%;
 }
+
+/*#mainList {
+	display: flex; 
+	justify-content: center; 
+	margin-bottom: 5px; 
+}*/
 
 #options {
 	list-style: none;
@@ -33,9 +36,10 @@
 
 #options li {
 	display: inline;
-	font-size: 1.75em;
+	font-size: 1.25em;
 	margin: auto 5%;
 }
+
 
 
 
