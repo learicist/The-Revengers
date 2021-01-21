@@ -18,9 +18,13 @@ body{
 	margin-right: 5%;
 }
 
-#subTitle {
-	font-size: 1.15em;
-	margin-left: 15%;
+.subTitle {
+	text-align: center;
+	margin: auto;
+}
+
+#temp {
+	border: 2px solid black;
 }
 
 /*#mainList {
@@ -40,10 +44,21 @@ body{
 	margin: auto 5%;
 }
 
+.titleCard {
+	text-align: center;
+	margin: auto;
+	border: 2px solid black;
+}
+
 
 
 
 /* ========= MUSIC.HTML ==============*/
+
+#musicTitle {
+	border: 2px solid black;
+	text-align: center;
+}
 
 
 
